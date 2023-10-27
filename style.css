@@ -13,7 +13,11 @@
   font-family: 'Roboto', sans-serif;
 }
 
+.picOne .pictwo .picthree{
+  position: absolute;
+  z-index: -1;
+}
 
-.here{
-  
+.hide {
+  display: none;
 }
