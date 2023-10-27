@@ -11,5 +11,5 @@ O que será abordado nesse desafio:
 - Classes e muito mais.
 
 <p align="center">
-  <img alt="" src="../SPA-Universe/assets/Sem título.png" width="100%">
+  <img alt="" src="./assets/Sem título.png" width="100%">
 </p>
